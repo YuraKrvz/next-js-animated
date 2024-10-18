@@ -1,3 +1,6 @@
+![gifka](https://github.com/user-attachments/assets/d98d84f9-dbde-47a6-b375-88b0fbbc2c30)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
